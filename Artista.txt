@@ -1,0 +1,32 @@
+78;XXXTENTACION;108
+42;Tyler the Creator;103
+150;Post Malone;108
+95;Nas;101
+30;Frank Sinatra;102
+63;Bad Bunny;104
+55;Chet Baker;102
+17;Sinnamota;106
+81;Canserbero;107
+25;Eazy E;101
+37;Freddie Dredd;111
+50;Mac DeMarco;112
+68;Mac Miller;103
+125;Eminem;110
+12;Jack Stauber;106
+88;TV Girl;103
+72;The Notorious B.I.G.;112
+99;Ice Cube;112
+46;Kanye;101
+28;Travis Scott;108
+60;Billie Eilish;103
+35;Luis Miguel;103
+77;The Who;103
+92;Arctic Monkeys;103
+21;Avicii;106
+54;Cage the Elephant;105
+91;Roar;105
+191;Gorillaz;111
+83;Two Door Cinema;103
+97;War;101
+110;Mitski;109
+1;ArtistaPrueba;1

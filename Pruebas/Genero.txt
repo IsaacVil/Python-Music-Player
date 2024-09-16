@@ -1,0 +1,25 @@
+101;Hip Hop
+102;Jazz
+103;Pop
+104;Reggaeton
+105;Rock
+106;Electronica
+107;Rap Conciencia
+108;Trap
+109;Indie
+110;Rap
+111;Punk
+112;Rap
+113;Hippie
+114;80s
+115;70s
+116;60s
+117;Bolero
+118;Dubstep
+119;R&B
+120;K-Trap
+121;Indian
+122;K-Pop
+123;Funk
+124;90s
+1;GeneroPrueba

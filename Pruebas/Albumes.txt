@@ -1,0 +1,36 @@
+2;?;78
+3;Skins;78
+4;Post;150
+5;IGOR;42
+6;Illmatic;95
+7;In the Wee Small Hours;30
+8;Songs for Swingin' Lovers!;30
+9;YHLQMDLG;63
+10;Alive;17
+12;Vida;81
+13;Eazy-Duz-It;25
+14;Chopped Suey;37
+15;Salad Days;50
+16;Swimming;68
+17;HiLo;12
+18;The Eminem Show;125
+20;French Exit;88
+21;Life After Death;72
+22;The Predator;99
+23;My Beautiful Dark Twisted Fantasy;46
+24;The College Dropout;46
+25;Astroworld;28
+26;WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?;60
+27;Romance;35
+28;Who's Next;77
+29;AM;92
+30;True;21
+31;Melophobia;54
+32;Prism;91
+33;Tourist History;83
+34;The World Is a Ghetto;97
+35;Muerte;81
+36;Be the cowboy;110
+37;Demon Days;191
+38;Funny Valentine;55
+1;AlbumPrueba;1
